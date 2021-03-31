@@ -1,0 +1,11 @@
+package com.atguigu.git;
+
+/**
+ * @author jiyiyuan
+ * @date 2021/3/31-21:30
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git!");
+    }
+}
